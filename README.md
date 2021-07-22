@@ -12,7 +12,7 @@
 2. openweathermap API를 이용해서 실시간으로 지역과 날씨, 온도 데이터를 받아와서 화면 상단에 렌더링한다.
 3. 로그인 후 to do List를 작성할 수 있다.
 
-### Responsive Nav Bar [Click here](https://won-jin-lee.github.io/VanillaJS-Project/)
+### Responsive Nav Bar [Click here](https://won-jin-lee.github.io/responsive-NavBar/)
 
 ## Wide Screen
 
@@ -21,4 +21,4 @@
 ## Small Screen
 
 ![small](imgs/smallscreen.PNG)
-https://won-jin-lee.github.io/responsive-NavBar/
+
